@@ -1,0 +1,6 @@
+{
+  "name": "NEXXUS Management System",
+  "description": "Comprehensive enterprise management platform for attendance, GST tax invoicing, payroll records, employee master, job work tracking, funds ledger, and exact document PDF generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
